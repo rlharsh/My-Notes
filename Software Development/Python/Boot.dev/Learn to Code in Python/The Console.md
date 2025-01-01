@@ -1,10 +1,13 @@
 ---
-Modified Date: 2024-12-05 09:48
-mastered: false
+created: 2025-12-05T17:21:00
+updated: 2025-01-01T11:30
 tags:
+  - "#python"
+  - "#console"
+mastered: false
 ---
 
-# What is the console?
+# What is the console? 
 
 The `console` in Python is where output goes from our script/program that displays important information, like errors or the text output of a program.
 
