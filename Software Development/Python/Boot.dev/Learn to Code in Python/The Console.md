@@ -6,7 +6,6 @@ tags:
   - "#console"
 mastered: false
 ---
-
 # What is the console? 
 
 The `console` in Python is where output goes from our script/program that displays important information, like errors or the text output of a program.
