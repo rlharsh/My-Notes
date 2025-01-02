@@ -2,10 +2,13 @@
 type: SoftwareNote
 title: Man
 modificationDate: 2024-12-19 08:42
-tags: []
+tags:
+  - Bash
+  - Manual
+  - Programs
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:49
 ---
 
 # What is man?

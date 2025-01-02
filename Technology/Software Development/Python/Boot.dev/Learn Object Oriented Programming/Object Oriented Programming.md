@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Object Oriented Programming
 modificationDate: 2024-12-27 14:03
-tags: []
+tags:
+  - Python
+  - OOP
 mastered: false
 created: 2025-01-01T17:39
-updated: 2025-01-01T11:40
+updated: 2025-01-02T12:51
 ---
 
 # What is object-oriented programming?

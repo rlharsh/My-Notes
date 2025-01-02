@@ -2,10 +2,13 @@
 type: SoftwareNote
 title: Permissions
 modificationDate: 2024-12-18 14:34
-tags: []
+tags:
+  - Bash
+  - Files
+  - Permissions
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:49
 ---
 
 # Users

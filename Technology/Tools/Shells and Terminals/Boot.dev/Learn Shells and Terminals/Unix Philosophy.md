@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Unix Philosophy
 modificationDate: 2024-12-19 09:32
-tags: []
+tags:
+  - Bash
+  - Philosophy
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:49
 ---
 
 # What is the unix philosophy

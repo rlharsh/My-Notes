@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Variables
 modificationDate: 2024-12-17 11:58
-tags: []
+tags:
+  - Bash
+  - Variables
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:49
 ---
 
 # Creating and using variables

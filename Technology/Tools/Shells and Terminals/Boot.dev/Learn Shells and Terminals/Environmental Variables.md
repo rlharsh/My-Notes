@@ -5,6 +5,7 @@ modificationDate: 2024-12-19 08:20
 tags:
   - Bash
   - Variables
+  - Environmental
 mastered: false
 created: 2025-01-01T17:42
 updated: 2025-01-02T12:48

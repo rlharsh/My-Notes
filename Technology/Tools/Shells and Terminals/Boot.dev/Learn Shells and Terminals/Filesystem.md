@@ -2,10 +2,13 @@
 type: SoftwareNote
 title: Filesystem
 modificationDate: 2024-12-17 12:28
-tags: []
+tags:
+  - Bash
+  - Filesystem
+  - Files
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:48
 ---
 
 # What is a filesystem?

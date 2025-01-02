@@ -2,10 +2,13 @@
 type: SoftwareNote
 title: History
 modificationDate: 2024-12-17 12:01
-tags: []
+tags:
+  - Bash
+  - History
+  - Files
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:48
 ---
 
 # Using history

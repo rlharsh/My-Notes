@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Classes
 modificationDate: 2024-12-27 14:10
-tags: []
+tags:
+  - Python
+  - Classes
 mastered: false
 created: 2025-01-01T17:39
-updated: 2025-01-01T17:39
+updated: 2025-01-02T12:50
 ---
 
 # Classes

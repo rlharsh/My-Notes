@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Variables
 modificationDate: 2024-12-05 10:05
-tags: []
+tags:
+  - Python
+  - Variables
 mastered: false
 created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+updated: 2025-01-02T12:51
 ---
 
 # What are variables?

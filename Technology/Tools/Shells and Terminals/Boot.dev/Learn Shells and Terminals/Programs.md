@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Programs
 modificationDate: 2024-12-18 15:53
-tags: []
+tags:
+  - Bash
+  - Programs
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:49
 ---
 
 # Compiled vs Interpreted

@@ -2,10 +2,13 @@
 type: SoftwareNote
 title: Path
 modificationDate: 2024-12-19 08:38
-tags: []
+tags:
+  - Bash
+  - Filesystem
+  - Path
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T17:42
+updated: 2025-01-02T12:49
 ---
 
 # What is PATH?
