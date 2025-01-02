@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Bourne Shell (Types of shells)
 modificationDate: 2024-12-19 08:17
-tags: []
+tags:
+  - Bash
+  - Shells
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:47
 ---
 
 # Types of shells

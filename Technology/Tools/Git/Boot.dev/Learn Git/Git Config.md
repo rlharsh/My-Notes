@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Git Config
 modificationDate: 2024-12-26 10:18
-tags: []
+tags:
+  - Git
+  - Config
 mastered: false
 created: 2025-01-01T17:35
-updated: 2025-01-01T11:38
+updated: 2025-01-02T12:45
 ---
 
 # Git Config

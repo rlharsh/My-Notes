@@ -2,9 +2,9 @@
 tags:
   - Python
   - Encapsulation
-mastered: 
+mastered: false
 created: 2025-01-01T14:51
-updated: 2025-01-01T18:42
+updated: 2025-01-02T12:42
 ---
 # Encapsulation
 #Encapsulation is the practice of hiding complexity inside of a "black box" so that it's easier to focus on the problem at hand.

@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Git Remote
 modificationDate: 2024-12-26 14:22
-tags: []
+tags:
+  - Git
+  - Remote
 mastered: false
 created: 2025-01-01T17:35
-updated: 2025-01-01T11:37
+updated: 2025-01-02T12:45
 ---
 
 # Git Remote

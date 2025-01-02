@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Branches
 modificationDate: 2024-12-26 12:10
-tags: []
+tags:
+  - Git
+  - Branches
 mastered: false
 created: 2025-01-01T17:35
-updated: 2025-01-01T11:37
+updated: 2025-01-02T12:44
 ---
 
 # What is a Branch?

@@ -2,10 +2,11 @@
 type: SoftwareNote
 title: Git
 modificationDate: 2024-12-19 11:22
-tags: []
+tags:
+  - Git
 mastered: false
 created: 2025-01-01T17:35
-updated: 2025-01-01T17:35
+updated: 2025-01-02T12:45
 ---
 
 # What is Git?

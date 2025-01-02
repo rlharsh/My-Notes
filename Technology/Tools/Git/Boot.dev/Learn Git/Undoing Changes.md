@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Undoing Changes
 modificationDate: 2024-12-26 13:43
-tags: []
+tags:
+  - Git
+  - Reset
 mastered: false
 created: 2025-01-01T17:35
-updated: 2025-01-01T11:37
+updated: 2025-01-02T12:46
 ---
 
 # Undoing Changes

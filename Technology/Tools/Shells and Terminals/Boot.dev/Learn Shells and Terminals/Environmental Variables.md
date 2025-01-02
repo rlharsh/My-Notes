@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Environmental Variables
 modificationDate: 2024-12-19 08:20
-tags: []
+tags:
+  - Bash
+  - Variables
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-01T11:43
+updated: 2025-01-02T12:48
 ---
 
 # What are environmental variables?

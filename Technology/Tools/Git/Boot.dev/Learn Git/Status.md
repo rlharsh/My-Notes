@@ -2,10 +2,12 @@
 type: SoftwareNote
 title: Status
 modificationDate: 2024-12-19 11:27
-tags: []
+tags:
+  - Git
+  - Status
 mastered: false
 created: 2025-01-01T17:35
-updated: 2025-01-01T11:37
+updated: 2025-01-02T12:45
 ---
 
 # Status
