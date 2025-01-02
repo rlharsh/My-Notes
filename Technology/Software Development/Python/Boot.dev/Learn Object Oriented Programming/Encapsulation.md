@@ -14,9 +14,6 @@ updated: 2025-01-01T18:42
 > 
 > **Encapsulation is about organization, not security**
 
-
-
-
 The most basic example of encapsulation is a function. The caller of a function doesn't need to worry too much about what happens inside, they just need to understand the inputs and the outputs.
 
 ```python
