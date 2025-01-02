@@ -4,10 +4,18 @@ tags:
   - Encapsulation
 mastered: 
 created: 2025-01-01T14:51
-updated: 2025-01-01T18:36
+updated: 2025-01-01T18:42
 ---
 # Encapsulation
 #Encapsulation is the practice of hiding complexity inside of a "black box" so that it's easier to focus on the problem at hand.
+
+> [!info]
+> To be clear, it does *not* make code more secure in a cryptographic or cyber-security sense.
+> 
+> **Encapsulation is about organization, not security**
+
+
+
 
 The most basic example of encapsulation is a function. The caller of a function doesn't need to worry too much about what happens inside, they just need to understand the inputs and the outputs.
 
@@ -51,5 +59,12 @@ print(front_wall.get_defense())
 # Examples
 **Wizard Class**
 ```python
+class Wizard:
+	def __init__(self, name, stamina, intelligence):
+		self.__stamina = stamina
+		self.__intelligence = intelligence
 
+		self.name = name
+		self.health = stamina * 100
+		self.mana = intelligence * 10
 ```
