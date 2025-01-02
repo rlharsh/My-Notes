@@ -8,7 +8,7 @@ tags:
   - Path
 mastered: false
 created: 2025-01-01T17:42
-updated: 2025-01-02T12:49
+updated: 2025-01-02T12:57
 ---
 
 # What is PATH?
@@ -21,7 +21,7 @@ If it weren't for the `PATH`, we would have to remember the filesystem path of e
 
 ## Adding a directory to PATH
 
-In order for us to add a directory to our `PATH` we need only run an `export` command (see [Environmental Variables](RonaldsSoftwareNotes/Environmental%20Variables.md)).
+In order for us to add a directory to our `PATH` we need only run an `export` command (see [[Environmental Variables]]).
 
 ```bash
 export PATH="$PATH:/path/to/new"
