@@ -4,7 +4,7 @@ tags:
   - Encapsulation
 mastered: 
 created: 2025-01-01T14:51
-updated: 2025-01-01T18:32
+updated: 2025-01-01T18:36
 ---
 # Encapsulation
 #Encapsulation is the practice of hiding complexity inside of a "black box" so that it's easier to focus on the problem at hand.
@@ -29,3 +29,27 @@ print(wall.height)
 ```
 
 ## Private
+[Private](https://docs.python.org/3/tutorial/classes.html#tut-private) data members are how we encapsulate logic and data within a class. To make a property private, you need only prefix it with two underscores `__`.
+```python
+class Wall:
+	def __init__(self, armor, magic_resistance):
+		self.__armor = armor
+		self.__magic_resistance = magic_resistance
+
+	def get_defense(self):
+		return self.__armor + self.__magic_resistance
+
+front_wall = Wall(10, 20)
+
+# Error
+# print(front_wall.__armor)
+
+print(front_wall.get_defense())
+#30
+```
+
+# Examples
+**Wizard Class**
+```python
+
+```
