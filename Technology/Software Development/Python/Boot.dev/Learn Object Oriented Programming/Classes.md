@@ -18,6 +18,9 @@ class Soldier:
   health = 5
   armor = 3
   damage = 2
+
+soldier = Soldier()
+print(soldier.health)
 ```
 
 Just like a string, integer or float, a class is a *type*, but instead of being a built-in type, classes are custom types that we define.
