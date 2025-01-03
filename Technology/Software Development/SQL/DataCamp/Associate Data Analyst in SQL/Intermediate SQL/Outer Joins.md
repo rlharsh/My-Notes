@@ -4,7 +4,7 @@ tags:
   - Joining
 mastered: false
 created: 2025-01-03T07:20
-updated: 2025-01-03T11:27
+updated: 2025-01-03T11:30
 ---
 # LEFT and RIGHT JOINs
 ![[Pasted image 20250103110457.png]]
@@ -64,4 +64,14 @@ ORDER BY code DESC;
 ```
 
 # Full Joins
-A `FULL JOIN` combines a `LEFT JOIN` and a `RIGHT JOIN` (as seen in the image below). A `FULL JOIN` will return all data
+A `FULL JOIN` combines a `LEFT JOIN` and a `RIGHT JOIN` (as seen in the image below). A `FULL JOIN` will return all data, irrespective of whether they have a match in the other table being joined.
+![[Pasted image 20250103112744.png]]
+```sql
+SELECT left_table.id AS L_id,
+	   right_table.id AS R_id,
+	   left_table.val AS L_val,
+	   right_table.val AS R_val
+FROM left_table
+FULL JOIN right_table
+USING (id);
+```
