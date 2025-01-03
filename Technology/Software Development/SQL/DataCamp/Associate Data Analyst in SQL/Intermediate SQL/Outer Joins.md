@@ -4,7 +4,7 @@ tags:
   - Joining
 mastered: false
 created: 2025-01-03T07:20
-updated: 2025-01-03T11:13
+updated: 2025-01-03T11:18
 ---
 # LEFT and RIGHT JOINs
 ![[Pasted image 20250103110457.png]]
@@ -46,4 +46,19 @@ SELECT
 FROM prime_ministers AS p1
 RIGHT JOIN presidents AS p2
 USING(country);
+```
+
+# Examples
+```sql
+SELECT 
+    c1.name AS city, 
+    code, 
+    c2.name AS country,
+    region, 
+    city_proper_pop
+FROM cities AS c1
+-- Join right table (with alias)
+LEFT JOIN countries AS c2
+ON c1.country_code = c2.code
+ORDER BY code DESC;
 ```
