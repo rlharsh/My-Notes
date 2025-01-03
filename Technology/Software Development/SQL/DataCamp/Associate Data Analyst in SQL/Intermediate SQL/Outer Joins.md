@@ -4,7 +4,7 @@ tags:
   - Joining
 mastered: false
 created: 2025-01-03T07:20
-updated: 2025-01-03T11:30
+updated: 2025-01-03T11:34
 ---
 # LEFT and RIGHT JOINs
 ![[Pasted image 20250103110457.png]]
@@ -63,9 +63,18 @@ ON c1.country_code = c2.code
 ORDER BY code DESC;
 ```
 
+```sql
+SELECT p1.country AS country, prime_minister, president
+FROM prime_ministers AS p1
+FULL JOIN presidents AS p2
+ON p1.country = p2.country
+LIMIT 10;
+```
+
 # Full Joins
 A `FULL JOIN` combines a `LEFT JOIN` and a `RIGHT JOIN` (as seen in the image below). A `FULL JOIN` will return all data, irrespective of whether they have a match in the other table being joined.
 ![[Pasted image 20250103112744.png]]
+
 ```sql
 SELECT left_table.id AS L_id,
 	   right_table.id AS R_id,
