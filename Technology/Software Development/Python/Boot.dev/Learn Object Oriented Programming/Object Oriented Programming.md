@@ -4,7 +4,7 @@ tags:
   - OOP
 mastered: false
 created: 2024-12-27T17:39:00
-updated: 2025-01-03T07:13
+updated: 2025-01-03T08:19
 ---
 
 # What is object-oriented programming?
@@ -41,4 +41,6 @@ Another "rule of thumb" for writing maintainable code is "Don't Repeat Yourself"
 
 - It's more work to write it over and over again.
 
+# How OOP Developers Think
+Classes in object-oriented programming are all about grouping data and behavior *together* in one place: an object. Object-oriented programmers tend to think about programming as a 
 

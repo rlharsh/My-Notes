@@ -4,7 +4,7 @@ tags:
   - Abstraction
 mastered: false
 created: 2025-01-03T07:26
-updated: 2025-01-03T07:39
+updated: 2025-01-03T08:18
 ---
 # Abstraction
 Abstraction helps us to handle complexity by hiding unnecessary details.
