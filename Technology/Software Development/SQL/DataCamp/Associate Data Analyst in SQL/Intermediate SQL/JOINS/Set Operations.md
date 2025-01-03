@@ -4,7 +4,7 @@ tags:
   - JOIN
 mastered: 
 created: 2025-01-03T12:45
-updated: 2025-01-03T12:49
+updated: 2025-01-03T12:51
 ---
 # Set theory for SQL Joins
 SQL has three main set operations:
@@ -16,5 +16,9 @@ The Venn diagram below visualizes the differences between them:
 ## UNION
 `UNION` takes two tables as input, and returns all records from both tables:
 ![[Pasted image 20250103124904.png]]
+### Example
+```sql
+
+```
 ## UNION ALL
-`UNION ALL` will in
+`UNION ALL` will include duplicate records.
