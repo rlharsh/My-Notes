@@ -4,7 +4,7 @@ tags:
   - Abstraction
 mastered: false
 created: 2025-01-03T07:26
-updated: 2025-01-03T07:33
+updated: 2025-01-03T07:39
 ---
 # Abstraction
 Abstraction helps us to handle complexity by hiding unnecessary details.
@@ -23,3 +23,11 @@ print(attack_damage)
 In the above code example we generate a random number within the range of `0-5`. The developers of the `random` library have *abstracted* the complexity away and *encapsulated* it within the simple `randrange` function.
 
 When writing libraries for use by other developers, getting the abstractions right is *crucial* because changing them later can be disastrous. 
+
+>[!info]
+>Abstraction is about reducing complexity.
+
+## Quiz
+- Which is NOT a good reason to hide implementation details?
+	- To keep passwords a secret
+- Abstraction emphasizes making usage easy and encapsulation emphasizes implementation details.
