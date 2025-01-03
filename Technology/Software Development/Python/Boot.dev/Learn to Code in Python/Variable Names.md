@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Variable Names
-modificationDate: 2024-12-06 11:09
 tags:
   - Python
+  - Variables
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-06T17:21:00
+updated: 2025-01-03T07:19
 ---
 
 # Variable Names

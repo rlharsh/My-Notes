@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Variables
-modificationDate: 2024-12-05 10:05
 tags:
   - Python
   - Variables
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-02T12:51
+created: 2025-12-01T17:21:00
+updated: 2025-01-03T07:19
 ---
 
 # What are variables?
@@ -54,5 +51,4 @@ acceleration = 20
 print(acceleration)
 ```
 
-The line `acceleration = 20` *reassigns* the value of `acceleration` to `20`. It *overwrites* whatever was being held in the `acceleration` variable before.
-
+The line `acceleration = 20` *reassigns* the value of `acceleration` to `20`. It *overwrites* whatever was being held in the `acceleration` variable before

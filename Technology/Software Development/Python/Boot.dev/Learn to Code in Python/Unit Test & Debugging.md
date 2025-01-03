@@ -1,12 +1,12 @@
 ---
-type: SoftwareNote
-title: Unit Test & Debugging
-modificationDate: 2024-12-10 08:46
 tags:
   - Python
+  - Debugging
+  - Testing
+  - Unit
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-16T17:21:00
+updated: 2025-01-03T07:19
 ---
 
 # What is an unit test?

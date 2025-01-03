@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: NoneType Variables
-modificationDate: 2024-12-05 11:02
 tags:
   - Python
+  - None
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-05T17:21:00
+updated: 2025-01-03T07:17
 ---
 
 # What is a NoneType variable?

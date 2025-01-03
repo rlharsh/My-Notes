@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Sets
-modificationDate: 2024-12-19 17:20
 tags:
   - Python
+  - Sets
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-19T17:21:00
+updated: 2025-01-03T07:17
 ---
 
 # What are sets?

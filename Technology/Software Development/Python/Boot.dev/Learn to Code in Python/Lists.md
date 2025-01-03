@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Lists
-modificationDate: 2024-12-13 15:17
 tags:
   - Python
+  - Lists
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-13T17:21:00
+updated: 2025-01-03T07:15
 ---
 
 # What are Lists?

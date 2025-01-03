@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Logical Operators
-modificationDate: 2024-12-10 09:53
 tags:
   - Python
+  - Operators
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T17:21
+created: 2024-12-10T17:21:00
+updated: 2025-01-03T07:16
 ---
 
 # What are logical operators?

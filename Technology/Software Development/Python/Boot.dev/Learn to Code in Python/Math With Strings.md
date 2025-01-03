@@ -1,12 +1,11 @@
 ---
-type: SoftwareNote
-title: Math With Strings
-modificationDate: 2024-12-05 16:01
 tags:
   - Python
+  - Strings
+  - Math
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-05T17:21:00
+updated: 2025-01-03T07:16
 ---
 
 # Math With Strings

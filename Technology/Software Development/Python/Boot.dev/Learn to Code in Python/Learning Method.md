@@ -1,12 +1,9 @@
 ---
-type: SoftwareNote
-title: Learning Method
-modificationDate: 2024-12-10 08:55
 tags:
   - Python
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-10T17:21:00
+updated: 2025-01-03T07:15
 ---
 
 # Outline for successful learning

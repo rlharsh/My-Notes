@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Loops
-modificationDate: 2024-12-13 10:12
 tags:
   - Python
+  - Loops
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-13T17:21:00
+updated: 2025-01-03T07:16
 ---
 
 # What are loops?

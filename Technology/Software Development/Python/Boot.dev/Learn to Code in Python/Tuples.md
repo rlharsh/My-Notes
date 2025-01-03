@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Tuples
-modificationDate: 2024-12-16 13:20
 tags:
   - Python
+  - Tuples
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-16T17:21:00
+updated: 2025-01-03T07:18
 ---
 
 # What are Tuples?

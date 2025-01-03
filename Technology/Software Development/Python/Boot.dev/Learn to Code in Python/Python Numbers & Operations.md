@@ -1,12 +1,11 @@
 ---
-type: SoftwareNote
-title: Python Numbers & Operations
-modificationDate: 2024-12-10 09:44
 tags:
   - Python
+  - Numbers
+  - Operations
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-10T17:21:00
+updated: 2025-01-03T07:17
 ---
 
 # What are numbers in Python?
