@@ -5,10 +5,10 @@ tags:
   - CROSS
 mastered: 
 created: 2025-01-03T11:43
-updated: 2025-01-03T11:47
+updated: 2025-01-03T12:00
 ---
 # CROSS JOIN
-`CROSS JOINS` are slightly different than other joins (such as [[INNER JOIN]] & [[Outer Joins]]): they create all possible combinations of two tables.
+`CROSS JOINS` are slightly different than other joins (such as [[INNER JOIN]] & [[OUTER JOIN]]): they create all possible combinations of two tables.
 ## Syntax
 ```sql
 SELECT id1, id2
