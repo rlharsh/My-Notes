@@ -4,7 +4,7 @@ tags:
   - Joining
 mastered: false
 created: 2025-01-03T07:20
-updated: 2025-01-03T11:18
+updated: 2025-01-03T11:27
 ---
 # LEFT and RIGHT JOINs
 ![[Pasted image 20250103110457.png]]
@@ -62,3 +62,6 @@ LEFT JOIN countries AS c2
 ON c1.country_code = c2.code
 ORDER BY code DESC;
 ```
+
+# Full Joins
+A `FULL JOIN` combines a `LEFT JOIN` and a `RIGHT JOIN` (as seen in the image below). A `FULL JOIN` will return all data
