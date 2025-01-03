@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Rounding results
-modificationDate: 2024-12-07 15:32
 tags:
   - SQL
   - Rounding
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-07T13:03:00
+updated: 2025-01-03T07:11
 ---
 
 # What is ROUND?

@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: "Summarizing Data: Aggregate Functions"
-modificationDate: 2024-12-07 15:27
 tags:
   - SQL
   - Summarizing
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:08
+created: 2024-12-07T13:03:00
+updated: 2025-01-03T07:11
 ---
 
 # What is an aggregate function?

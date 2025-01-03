@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Comparison Operators
-modificationDate: 2024-12-12 11:50
 tags:
   - Python
+  - Operators
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-12T17:21:00
+updated: 2025-01-03T07:13
 ---
 
 # What are comparison operators?

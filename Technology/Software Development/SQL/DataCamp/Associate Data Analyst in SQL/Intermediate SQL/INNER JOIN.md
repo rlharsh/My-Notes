@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: INNER JOIN
-modificationDate: 2024-12-19 19:05
 tags:
   - SQL
   - Joining
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-19T13:03:00
+updated: 2025-01-03T07:10
 ---
 
 # What is INNER JOIN?

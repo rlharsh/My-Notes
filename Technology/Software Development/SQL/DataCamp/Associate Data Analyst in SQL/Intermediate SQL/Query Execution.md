@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Query Execution
-modificationDate: 2024-12-05 16:58
 tags:
   - SQL
   - Queries
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-05T13:03:00
+updated: 2025-01-03T07:10
 ---
 
 # What is SQL Execution?

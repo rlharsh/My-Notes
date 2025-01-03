@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Querying a database
-modificationDate: 2024-12-05 16:07
 tags:
   - SQL
   - Queries
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-05T13:03:00
+updated: 2025-01-03T07:10
 ---
 
 # How to query a database using SQL

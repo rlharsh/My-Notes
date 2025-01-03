@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: SQL Formatting
-modificationDate: 2024-12-05 16:38
 tags:
   - SQL
   - Formatting
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-05T13:03:00
+updated: 2025-01-03T07:11
 ---
 
 # Formatting in SQL

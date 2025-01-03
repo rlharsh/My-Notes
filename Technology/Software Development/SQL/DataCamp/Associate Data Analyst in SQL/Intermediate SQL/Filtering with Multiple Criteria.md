@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Filtering with Multiple Criteria
-modificationDate: 2024-12-05 17:29
 tags:
   - SQL
   - Filtering
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-05T13:03:00
+updated: 2025-01-03T07:09
 ---
 
 # Filtering with Multiple Criteria

@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Sorting Results
-modificationDate: 2024-12-10 17:51
 tags:
   - SQL
   - Sorting
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-10T13:03:00
+updated: 2025-01-03T07:11
 ---
 
 # ORDER BY

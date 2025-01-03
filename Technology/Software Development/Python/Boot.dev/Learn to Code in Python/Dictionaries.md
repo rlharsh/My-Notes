@@ -1,12 +1,10 @@
 ---
-type: SoftwareNote
-title: Dictionaries
-modificationDate: 2024-12-16 15:51
 tags:
   - Python
+  - Dictionary
 mastered: false
-created: 2025-01-01T17:21
-updated: 2025-01-01T11:31
+created: 2024-12-16T17:21:00
+updated: 2025-01-03T07:14
 ---
 
 # What is a dictionary?

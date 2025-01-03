@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: SQL Keywords
-modificationDate: 2024-12-05 17:09
 tags:
   - SQL
   - keywords
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:08
+created: 2024-12-05T13:03:00
+updated: 2025-01-03T07:11
 ---
 
 #keywords

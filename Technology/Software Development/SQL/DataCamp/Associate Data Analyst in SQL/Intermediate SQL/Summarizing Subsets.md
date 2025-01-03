@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: Summarizing Subsets
-modificationDate: 2024-12-07 15:26
 tags:
   - SQL
   - Summarizing
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:08
+created: 2024-12-07T13:03:00
+updated: 2025-01-03T07:12
 ---
 
 # Combining with the WHERE clause

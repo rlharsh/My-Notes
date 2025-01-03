@@ -1,13 +1,10 @@
 ---
-type: SoftwareNote
-title: NULL Values
-modificationDate: 2024-12-06 18:51
 tags:
   - SQL
   - Values
 mastered: false
-created: 2025-01-03T13:03
-updated: 2025-01-03T07:07
+created: 2024-12-06T13:03:00
+updated: 2025-01-03T07:10
 ---
 
 # What are NULL Values
