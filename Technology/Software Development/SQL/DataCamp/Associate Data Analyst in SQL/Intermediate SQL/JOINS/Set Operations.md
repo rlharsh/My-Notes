@@ -4,7 +4,7 @@ tags:
   - JOIN
 mastered: 
 created: 2025-01-03T12:45
-updated: 2025-01-03T14:13
+updated: 2025-01-03T14:18
 ---
 # Set theory for SQL Joins
 SQL has three main set operations:
@@ -65,3 +65,6 @@ INTERSECT
 SELECT country
 FROM presidents;
 ```
+
+## EXCEPT
+Except allows us to identify records that are present in one table, but not the other. More specifically, it retains only records from the left table that are not present in the right table.
