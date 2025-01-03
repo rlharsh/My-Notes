@@ -4,7 +4,7 @@ tags:
   - Inheritance
 mastered: false
 created: 2025-01-03T09:07
-updated: 2025-01-03T09:17
+updated: 2025-01-03T09:22
 ---
 # Inheritance
 Non-OOP languages such as #Go and #Rust allow for encapsulation and abstraction features as nearly *every* language does. Inheritance, on the other hand, tends to be unique to class-based languages such as #Python, #Java, and #Ruby.
@@ -27,5 +27,8 @@ class Animal:
 class Cow(Animal):
 	def __init__(self, num_udders):
 		super().__init(4)
-		self.num_udders = num
+		self.num_udders = num_udders
 ```
+## When should we use inheritance?
+Inheritance should only be used when all instances of a child class are also instances of the parent class.
+When a child class inherits from a parent, it inherits *everything*
