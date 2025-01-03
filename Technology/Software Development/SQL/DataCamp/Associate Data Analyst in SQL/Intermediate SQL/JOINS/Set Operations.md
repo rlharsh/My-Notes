@@ -4,7 +4,7 @@ tags:
   - JOIN
 mastered: 
 created: 2025-01-03T12:45
-updated: 2025-01-03T12:56
+updated: 2025-01-03T14:13
 ---
 # Set theory for SQL Joins
 SQL has three main set operations:
@@ -38,4 +38,30 @@ FROM left_table
 UNION ALL
 SELECT *
 FROM right_table;
+```
+
+## INTERSECT
+`INTERSECT` takes two tables as input, and returns only the records that exist in both tables.
+![[Pasted image 20250103141039.png]]
+### Syntax
+```sql
+SELECT
+	id,
+	val
+FROM left_table
+INTERSECT
+SELECT
+	id,
+	val
+FROM right_table;
+```
+
+### Example
+```sql
+SELECT
+	country as intersect_country
+FROM prime_ministers
+INTERSECT
+SELECT country
+FROM presidents;
 ```
