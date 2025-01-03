@@ -4,9 +4,8 @@ tags:
   - Joining
 mastered: false
 created: 2024-12-19T13:03:00
-updated: 2025-01-03T07:10
+updated: 2025-01-03T11:04
 ---
-
 # What is INNER JOIN?
 
 `INNER JOIN` makes up one of the two most common #SqlJoins. As seen in the picture below, two tables named "left_table" and "right_tabloe" are shown. Matching values of "id" in both tables are shown in the same color. In both tables, the `id` filed is the key.
