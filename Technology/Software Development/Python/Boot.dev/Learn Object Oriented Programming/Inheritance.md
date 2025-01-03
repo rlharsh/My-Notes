@@ -4,7 +4,7 @@ tags:
   - Inheritance
 mastered: false
 created: 2025-01-03T09:07
-updated: 2025-01-03T09:27
+updated: 2025-01-03T09:42
 ---
 # Inheritance
 Non-OOP languages such as #Go and #Rust allow for encapsulation and abstraction features as nearly *every* language does. Inheritance, on the other hand, tends to be unique to class-based languages such as #Python, #Java, and #Ruby.
@@ -57,3 +57,6 @@ class Castle(Wall):
     def get_tower_height(self):
         return self.get_height() * 2
 ```
+## Multiple Children
+Thus far we've worked with linear class inheritance, but usually, inheritance hierarchies form trees, not lines. A parent class can have multiple children.
+![[Cyv2n6l.png]]
