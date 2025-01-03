@@ -4,7 +4,7 @@ tags:
   - Joining
 mastered: false
 created: 2025-01-03T07:20
-updated: 2025-01-03T11:11
+updated: 2025-01-03T11:13
 ---
 # LEFT and RIGHT JOINs
 ![[Pasted image 20250103110457.png]]
@@ -37,3 +37,13 @@ ON left_table.id = right_table.id
 
 >[!info]
 >`RIGHT JOIN` can also be written as `RIGHT OUTER JOIN`.
+
+```sql
+SELECT
+	p1.country,
+	prime_minister,
+	president
+FROM prime_ministers AS p1
+RIGHT JOIN presidents AS p2
+USING(country);
+```
